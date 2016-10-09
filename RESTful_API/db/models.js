@@ -27,6 +27,6 @@ module.exports = {
         'file_name': { type: String, required: true },
         'file_size': { type: String, required: true },
         'upload_time': { type: Number, require: true },
-        'file_duration': { type: Number },
+        'file_duration': { type: Number }
     }
 }
